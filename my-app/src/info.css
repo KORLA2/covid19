@@ -1,0 +1,21 @@
+.text{
+
+color:#c30b0b !important;
+font-size:1.75rem !important;
+font-weight:800 !important
+}
+.Cases{
+border-top:20px solid red;
+
+padding: 10px !important;;
+box-sizing: border-box !important;
+}
+.Recovered{
+border-top: 20px solid greenyellow;}
+.Deaths{
+border-top: 20px solid pink;
+}
+.rec{
+margin:10px;
+}
+

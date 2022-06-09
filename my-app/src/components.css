@@ -1,0 +1,32 @@
+.flx{
+    margin:20px;
+    display: flex;
+     justify-content: space-evenly;
+/* flex:1; */
+}
+
+/* .rec{
+flex:1;
+margin:10px;
+/* height: 200px !important;; */
+
+.app{
+
+    display:flex;
+    justify-content: space-evenly;
+    padding:20px;
+
+}
+.app_left{
+flex:0.9
+
+}
+@media(max-width:800px){
+
+    .app{
+        flex-direction:column;
+    }
+    .rec{
+        margin:10px;
+    }
+}
